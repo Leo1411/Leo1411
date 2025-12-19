@@ -1,3 +1,14 @@
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">Меня зовут Леонид, я будущий Full-Stack разработчик.
+Знаю HTML и CSS ( остались формы, адаптив).
+Цель — войти в Frontend через реальную работу, параллельно прокачиваясь на курсах и быстро вырасти до Full Stack.
+Беру ответственность за результат, быстро учусь и считаю, что ошибки и практика в бою — единственный путь к сильному разработчику. </div>  
+  
+
 <br/>  
 
 
@@ -14,11 +25,6 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
 
 
 
@@ -39,6 +45,14 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
 
 <br />
 
