@@ -1,8 +1,8 @@
   
-### <div align="center">Меня зовут Леонид, я будущий Full-Stack разработчик.
-Знаю HTML и CSS ( остались формы, адаптив).
-Цель — войти в Frontend через реальную работу, параллельно прокачиваясь на курсах и быстро вырасти до Full Stack.
-Беру ответственность за результат, быстро учусь и считаю что ошибки и практика в бою — единственный путь к сильному разработчику. </div>  
+### <div align="center">Мене звуть Леонід, я майбутній Full-Stack розробник.
+Знаю HTML і CSS (залишилися форми, адаптив).
+Мета - увійти до Frontend через реальну роботу, паралельно прокачуючись на курсах і швидко вирости до Full Stack.
+Беру відповідальність за результат, швидко навчаюсь і вважаю, що помилки та практика в бою — єдиний шлях до сильного розробника. </div>  
   
 
 <br/>  
@@ -34,9 +34,6 @@
 
 ### Telegram: @lionandri  
 <div align="center">
-<a href="https://instagram.com/Lenchik_gg" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/Leo1411" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
