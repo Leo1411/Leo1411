@@ -1,8 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
-
 ### <div align="center">Меня зовут Леонид, я будущий Full-Stack разработчик.
 Знаю HTML и CSS ( остались формы, адаптив).
 Цель — войти в Frontend через реальную работу, параллельно прокачиваясь на курсах и быстро вырасти до Full Stack.
